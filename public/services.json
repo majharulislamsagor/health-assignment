@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Oxizen Therapy",
+        "price": 3000,
+        "duration": "130 hr",
+        "description": "Oxygen therapy is a treatment that delivers oxygen gas for you to breathe",
+        "img": "https://rtmagazine.com/wp-content/uploads/2013/06/oxygen-mask-hospital-2k-1280x640.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Sleep Therapy",
+        "price": 5000,
+        "duration": "130 hr",
+        "description": "Sleep therapy is a form of therapy designed to improve the quality of your sleep.",
+        "img": "https://www.brightree.com/wp-content/uploads/2019/01/sleep-therapy-featured.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Vantilation Therepy",
+        "price": 4000,
+        "duration": "130 hr",
+        "description": "Non-invasive ventilation (NIV) is the delivery of oxygen (ventilation support)",
+        "img": "https://rtmagazine.com/wp-content/uploads/2020/04/ventilation__Philips__V60Plus-1280x640.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Diabetes Management",
+        "price": 1500,
+        "duration": "130 hr",
+        "description": "To best manage diabetes, you'll need to take steps to keep your risk factors under control and within the normal range",
+        "img": "https://c.ndtvimg.com/2020-09/9anmovn_diabetes-_625x300_15_September_20.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Diabetes Management",
+        "price": 1500,
+        "duration": "130 hr",
+        "description": "To best manage diabetes, you'll need to take steps to keep your risk factors under control and within the normal range",
+        "img": "https://c.ndtvimg.com/2020-09/9anmovn_diabetes-_625x300_15_September_20.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Diabetes Management",
+        "price": 1500,
+        "duration": "130 hr",
+        "description": "To best manage diabetes, you'll need to take steps to keep your risk factors under control and within the normal range",
+        "img": "https://c.ndtvimg.com/2020-09/9anmovn_diabetes-_625x300_15_September_20.jpg"
+    }
+]
